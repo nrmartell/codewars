@@ -1,2 +1,4 @@
 # codewars
-code wars challenges
+
+My daily code wars challenges to hone my javascript skills
+
