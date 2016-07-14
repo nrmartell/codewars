@@ -22,7 +22,6 @@ function greetingForAllFriends(friends){
 }
 
 //super concise solution
-
 function greetingForAllFriends(friends){
   return friends && friends.length ? friends.map((friend)=> `Hello, ${friend}!`) : null ;
 }
